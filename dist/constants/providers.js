@@ -1,0 +1,17 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const PROVIDERS = {
+    SETTINGS: 'SETTINGS_REPOSITORY',
+    USER: 'USER_REPOSITORY',
+    CASE: 'CASE_REPOSITORY',
+    EXHIBIT: 'EXHIBIT_REPOSITORY',
+    DECISION: 'DECISION_REPOSITORY',
+    NOTICE: 'NOTICE_REPOSITORY',
+    PETITION: 'PETITION_REPOSITORY',
+    VERDICT: 'VERDICT_REPOSITORY',
+    DEPOSIT_VOUCHER: 'DEPOSIT_VOUCHER_REPOSITORY',
+    CLAIM: 'CLAIM_REPOSITORY',
+    FILE: 'FILE_REPOSITORY',
+};
+exports.default = PROVIDERS;
+//# sourceMappingURL=providers.js.map
